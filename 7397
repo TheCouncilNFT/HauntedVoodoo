@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7398",
+ 	"description": "HauntedVoodoo #7398",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmSmd8jB9Y11pwhAyLGZ4RjKsJjozg8F2h2KPaabHoY9TR",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Fiery steppes"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Grey voodoo cap"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Heels"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black adventurer cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Red puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Lapis"
+		},
+ 	]
+}

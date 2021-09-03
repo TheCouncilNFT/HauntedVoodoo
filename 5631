@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #5632",
+ 	"description": "HauntedVoodoo #5632",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmS4wZkEV3z9axgSBHhpManoAc8kPBqJ3VGJ634LjdCfCj",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Dark"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Pink curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Red top hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Blue old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "White shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "White doll head"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "None"
+		},
+ 	]
+}

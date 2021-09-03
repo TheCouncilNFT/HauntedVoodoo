@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #4719",
+ 	"description": "HauntedVoodoo #4719",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmP87EJnbxpbqsr85yqphxDmUP9Qc9b5iPXubLTHhNpgCj",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long brown hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple top hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Blue priest pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle brown shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red old cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Red aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Ruby"
+		},
+ 	]
+}

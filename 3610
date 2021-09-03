@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #3611",
+ 	"description": "HauntedVoodoo #3611",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmXNw2Lv3LFczKz9rHJANGji2kVpAa9PDGBmYexn9AodH9",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Pinwood green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Mustache"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Neutral"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long blond hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Pink voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Brown old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle brown shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Purple adventurer cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Book"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Straw doll"
+		},
+ 	]
+}

@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #6445",
+ 	"description": "HauntedVoodoo #6445",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmNvCru3voTGW5koWdWyptg7JfdCEVfWUe84TGVd7fPzEY",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Pinwood green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Purple dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Horned dark hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Black large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Brown leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Purple adventurer cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Amethyst"
+		},
+ 	]
+}

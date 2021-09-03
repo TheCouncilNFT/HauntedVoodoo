@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7402",
+ 	"description": "HauntedVoodoo #7402",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmZffuAVZKFhoL5eSvQWji4NytFyUqQP1LmHQkvRg7brr4",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Shadow moon"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Freckle"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Dark curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Grey voodoo cap"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple tribal tatoo"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Red puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "None"
+		},
+ 	]
+}

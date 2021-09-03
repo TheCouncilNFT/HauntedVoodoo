@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #5653",
+ 	"description": "HauntedVoodoo #5653",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmSHnKtrwWMZ65mAL9YM3Rz91aWzSinrQaKKoGMkAS1ur4",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Shadow moon"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Mustache"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Short green curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Black bowler hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Blue large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Heels"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red tribal tatoo"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Green snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Red toad"
+		},
+ 	]
+}

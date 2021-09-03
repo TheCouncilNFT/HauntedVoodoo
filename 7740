@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7741",
+ 	"description": "HauntedVoodoo #7741",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmc7MbhJeU5xDtvPxkUAticH9wZCPQ4cizq2hM73EBsD6Q",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Purple"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Mustache"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Dark curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Voodoo mask"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Black large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "White leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Brown vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Green aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Straw doll"
+		},
+ 	]
+}

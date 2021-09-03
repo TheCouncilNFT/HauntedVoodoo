@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #3408",
+ 	"description": "HauntedVoodoo #3408",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmS83VYpiEN5D9QtPsTpXR5P8v262mMRHR7kqDopXc9eGa",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light red"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Dark dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Orange sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple priest pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Pink shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Grey classy cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Pink doll head"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Amethyst"
+		},
+ 	]
+}

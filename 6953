@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #6954",
+ 	"description": "HauntedVoodoo #6954",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmXRW6sSJTFwJcdB5U6851rjE5wCYydZLSNLbtBfWboWhS",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Pinwood green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Full beard"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long red hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Horned dark hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Torn shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Yellow vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big black"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Book"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Green toad"
+		},
+ 	]
+}

@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #3992",
+ 	"description": "HauntedVoodoo #3992",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmeGw1sE8uBX6PJBNfzPE2fCXaz6fH6szG31b1LYnp5v4N",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Purple"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Short dark curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Green top hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Black old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Black shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Exhausted"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Skull"
+		},
+ 	]
+}

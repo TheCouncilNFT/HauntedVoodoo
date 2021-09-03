@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7145",
+ 	"description": "HauntedVoodoo #7145",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmWXhJV6ab9YAQ3Q5CTjSrT9STUHsgBHsfR9YnVZ29GF9m",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Shadow moon"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Pout"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Slicked back hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Black bowler hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Brown old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "White shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Yellow vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "White snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Straw doll"
+		},
+ 	]
+}

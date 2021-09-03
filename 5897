@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #5898",
+ 	"description": "HauntedVoodoo #5898",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmbguXeFp3V4opxiNMYKxQ53MofdY7vYecz4G6ubUqUMTP",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light gold"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Freckle"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Short green curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Voodoo mask"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Blue combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Pink shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue tribal tatoo"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Exhausted"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Purple aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Cards"
+		},
+ 	]
+}

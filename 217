@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #0218",
+ 	"description": "HauntedVoodoo #0218",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmPkCzCCKym6ufvTcJ4wUXLaaVpZpbCQ9DMFYLJtRbMjNG",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Purple"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Freckle"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Pout"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Blond dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Dark sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red tribal tatoo"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Pink doll head"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Red toad"
+		},
+ 	]
+}

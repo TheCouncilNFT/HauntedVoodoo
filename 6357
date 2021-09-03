@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #6358",
+ 	"description": "HauntedVoodoo #6358",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmWqMvhGxCUyrz2mNNFzpQFUSkYbyUDwXNMFbkLa8hzbuN",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Dark"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Full beard"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Short green curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Orange sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red priest pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Black leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Blue aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Dead toad"
+		},
+ 	]
+}

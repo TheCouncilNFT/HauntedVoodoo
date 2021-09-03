@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #6406",
+ 	"description": "HauntedVoodoo #6406",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmdPv7bHFqswKLPxN7i1M4Ws8AjZPfguDnNefCLqA48kf7",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Pinwood green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Full beard"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "Shadow aura"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Purple dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Dark voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Black large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Red leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Purple old cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Cards"
+		},
+ 	]
+}

@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #1432",
+ 	"description": "HauntedVoodoo #1432",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmUV9ctqeuAN14juiPn72Nq1FNiWRCaZpfPtigHm51iRSb",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Raining land"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Slicked back hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Horned dark hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple priest pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle blue shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue tribal tatoo"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Red aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Green snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Green toad"
+		},
+ 	]
+}

@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #1793",
+ 	"description": "HauntedVoodoo #1793",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmXUkkwNEPieNQkR9cb4Jr9aaG24R3iHMQuWWSDDviHLmn",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Pinwood green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Full beard"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Brown curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Voodoo mask"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Brown shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Straw puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Ruby"
+		},
+ 	]
+}

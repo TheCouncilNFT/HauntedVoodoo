@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #1708",
+ 	"description": "HauntedVoodoo #1708",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmUct78W9LW7mnhT3uMk58N813m8BuPT9LFwnMwt38WuKj",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Sunrise"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Indigenous"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Pout"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Dark dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Orange sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Blue combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "White shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Exhausted"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "None"
+		},
+ 	]
+}

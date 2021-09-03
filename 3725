@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #3726",
+ 	"description": "HauntedVoodoo #3726",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmeyPuhHGNX6M7QUC3VTCVB4pR8bGGoazCdZvuLXnKTzxm",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light red"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Pout"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Short green curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple tribal tatoo"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Book"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "None"
+		},
+ 	]
+}

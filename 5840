@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #5841",
+ 	"description": "HauntedVoodoo #5841",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmWj6GeX2X9xpMf6CVCW8a8HqD9QY1X8RqmWBSkGLy8LjR",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Dark"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Dark dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Brown voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Blue old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Brown leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Green snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Cards"
+		},
+ 	]
+}

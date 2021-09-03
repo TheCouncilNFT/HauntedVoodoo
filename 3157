@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #3158",
+ 	"description": "HauntedVoodoo #3158",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmc62kyr28wF7FqmY9SdNQmMTadR6YsHAnFFNXBfQ4YCSN",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Purple"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Pout"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Black bowler hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle black shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Grey classy cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Dead toad"
+		},
+ 	]
+}

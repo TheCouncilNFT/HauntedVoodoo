@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7558",
+ 	"description": "HauntedVoodoo #7558",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmX5Tm7bNvXpCv4BTCwWz9iBudbrWMCJKxaxCEqt9aaFaV",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light blue gradiant"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Blond dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Dark voodoo cap"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple priest pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle brown shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue tribal tatoo"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Purple aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Red puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Green toad"
+		},
+ 	]
+}

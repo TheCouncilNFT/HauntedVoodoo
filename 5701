@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #5702",
+ 	"description": "HauntedVoodoo #5702",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmVmfaPaCvwK4yxUgUH8bstCd8WCiwo3DVHA7EAEBxDjbH",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Dark"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Mustache"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Dark curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Black bowler hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Brown leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red old cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Exhausted"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Green aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Pink doll head"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Dead toad"
+		},
+ 	]
+}

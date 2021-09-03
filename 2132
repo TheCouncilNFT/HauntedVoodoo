@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #2133",
+ 	"description": "HauntedVoodoo #2133",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmWCGBRZa62nHY5HHKC8Prip96V2YkZZ4kMN2k8cjym753",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Dark"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Indigenous"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Pink curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Orange sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Brown old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle black shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Purple aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "None"
+		},
+ 	]
+}

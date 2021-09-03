@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #6215",
+ 	"description": "HauntedVoodoo #6215",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmQbVhSArQeY2MXsGaQnAurTMUwYMia19wVB8kaFiiA9Gq",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Pinwood green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Freckle"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Horned purple hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "White leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Brown old cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "White snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Green toad"
+		},
+ 	]
+}

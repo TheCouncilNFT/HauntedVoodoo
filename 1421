@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #1422",
+ 	"description": "HauntedVoodoo #1422",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmTVMTCcMoPF2BvMo4TcVP3sNh7h8uN7k3mijgZ5XACTVq",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Shadow moon"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Neutral"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Slicked back hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Pink voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Black old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle blue shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "White doll head"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Lapis"
+		},
+ 	]
+}

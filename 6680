@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #6681",
+ 	"description": "HauntedVoodoo #6681",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmXBSqacqYniWNewV5bpaoEB3uvsGEsis56eetPUfAJ2y4",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Pout"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long dark hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Brown voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Green belted pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Silver boots"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Brown vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Red snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Green toad"
+		},
+ 	]
+}

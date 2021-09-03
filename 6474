@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #6475",
+ 	"description": "HauntedVoodoo #6475",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmcsWvpJiKq2M8dbVKWiy23r63E21i3W7gCpWLeqZH3Wig",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Twilight"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long red hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Black bowler hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Blue belted pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle brown shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Exhausted"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Purple aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Bone dagger"
+		},
+ 	]
+}

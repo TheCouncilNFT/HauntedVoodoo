@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7613",
+ 	"description": "HauntedVoodoo #7613",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmekFwozxWksRzsAoRzAz67MLobCPdLzgwQ8E76uknbeNV",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Gradiant aqua"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Purple dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Horned purple hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Blue belted pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Golden boots"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Pink doll head"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Ruby"
+		},
+ 	]
+}

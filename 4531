@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #4532",
+ 	"description": "HauntedVoodoo #4532",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmVLLDVKqizdAjcCvakQvnzve4a5zS6RSCMgDDZnKLnCky",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Orange"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Orange sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Black combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Pink shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Grey classy cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Blue aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Splitted cards"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "None"
+		},
+ 	]
+}

@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #0742",
+ 	"description": "HauntedVoodoo #0742",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmYwCuPo8WBZMkSZKY4wih6r9eMoZrE82rRv7psigDStgL",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Raining land"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Scientist haircut"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple bowler hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Brown large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Red leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black adventurer cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Exhausted"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Blue aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Red toad"
+		},
+ 	]
+}

@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #5513",
+ 	"description": "HauntedVoodoo #5513",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmdnVhTEJrJeFRhoJKqKdC5HqrMCvHPxugP3kpQ4a4g7gG",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Purple"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Full beard"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Neutral"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Short green curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Dark voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Brown old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Red leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Red toad"
+		},
+ 	]
+}

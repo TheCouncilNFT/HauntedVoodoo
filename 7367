@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7368",
+ 	"description": "HauntedVoodoo #7368",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmW7BUxEgSpJTwtWFP5qeVMFUw1LStDDMP5MhpKVDd1oDB",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Sunrise"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Indigenous"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Purple dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Dark voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Black priest pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle red shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big black"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Dead toad"
+		},
+ 	]
+}

@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #4706",
+ 	"description": "HauntedVoodoo #4706",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmV3nwdcWLRiwPVAMoMvFxLeMKnCJT851d5HPbrSLMv9yj",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Pinwood green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long blond hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple belted pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle brown shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Splitted cards"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Straw doll"
+		},
+ 	]
+}

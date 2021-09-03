@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #3506",
+ 	"description": "HauntedVoodoo #3506",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qma73fmEZh12A83Mvn13uMaFAiB8pKbVnnjRkK3bzbML2K",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Gradiant aqua"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Full beard"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Short dark curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Dark voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle black shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue tribal tatoo"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Purple aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Red puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "None"
+		},
+ 	]
+}

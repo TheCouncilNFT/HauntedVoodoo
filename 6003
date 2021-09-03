@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #6004",
+ 	"description": "HauntedVoodoo #6004",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmRnNkhF1q5yE5rbGAgBK1ZQRW6SCgC94eLrDMpYziYXhk",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long brown hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple voodoo cap"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red priest pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Brown leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "White barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Exhausted"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Red snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Green toad"
+		},
+ 	]
+}

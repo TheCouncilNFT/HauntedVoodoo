@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #5151",
+ 	"description": "HauntedVoodoo #5151",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmeTsH48AVWeAvUkp7H2ftfKGbFbTEpXdEvaaUyFiAx1sk",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Raining land"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Mustache"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Dark curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Horned dark hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Pink shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Brown vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Green aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "White snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Bone dagger"
+		},
+ 	]
+}

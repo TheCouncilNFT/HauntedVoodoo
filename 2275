@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #2276",
+ 	"description": "HauntedVoodoo #2276",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmXSHjUaTQoMn9VD6U43RhAfGaW8J8VSbtLrCZvcSmQZzk",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Purple"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Neutral"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Brown curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Pink voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Red leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Purple aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Straw puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Amethyst"
+		},
+ 	]
+}

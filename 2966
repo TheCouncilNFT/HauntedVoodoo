@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #2967",
+ 	"description": "HauntedVoodoo #2967",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmRT5xP9ahxV36MJZcJ6AmkS2sYbF2BjwyuVXjWWRQ652X",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Pinwood green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Half skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Pout"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Short blond curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Black large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Brown shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Brown adventurer cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Red puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Skull"
+		},
+ 	]
+}

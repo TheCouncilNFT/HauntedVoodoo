@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #4786",
+ 	"description": "HauntedVoodoo #4786",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmd3FFdDj7moQRPhaHcc7CwWhBvfPhidUmPsBwww9X2Chw",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light blue gradiant"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Freckle"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Neutral"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Purple dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Brown voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple priest pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Black shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "White barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Exhausted"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Straw doll"
+		},
+ 	]
+}

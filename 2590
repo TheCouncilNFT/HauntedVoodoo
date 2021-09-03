@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #2591",
+ 	"description": "HauntedVoodoo #2591",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmUmqWmVERsVjyvKke1iwkTo3Hf3vxzYjjmRDsLS7YD7Us",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Fiery steppes"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Purple dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple bowler hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Blue combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Pink shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Purple barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big black"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Green snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Lapis"
+		},
+ 	]
+}

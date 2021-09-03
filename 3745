@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #3746",
+ 	"description": "HauntedVoodoo #3746",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmaf4cQLExGmZV2TA1wu8EPsyj5f1HHVB82hFbfmdB2SN5",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Shadow moon"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Full beard"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Dark dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Brown voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple priest pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Heels"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Brown vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Pink doll head"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Ruby"
+		},
+ 	]
+}

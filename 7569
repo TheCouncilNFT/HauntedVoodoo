@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7570",
+ 	"description": "HauntedVoodoo #7570",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmbprTwHjNNDGkVPbL7n4ASYPBVNyhE9VBmCk1B52EnuhH",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Pinwood green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Half skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Neutral"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Purple dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Horned purple hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Red leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black adventurer cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Red snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Cards"
+		},
+ 	]
+}

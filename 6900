@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #6901",
+ 	"description": "HauntedVoodoo #6901",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmS9ygL9HRSfFRGR2juXT2x2sCbV3HqNNXFwbAy7Xd8Eue",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light red"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Pout"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Brown curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple priest pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Heels"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Brown classy cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Red aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Dead toad"
+		},
+ 	]
+}

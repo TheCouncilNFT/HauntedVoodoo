@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #3274",
+ 	"description": "HauntedVoodoo #3274",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmbCQFqgo3q6ubV2vREBGcF7ELDYchnztPmxjENjX7QDPN",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Purple"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Neutral"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Dark dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Horned purple hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple belted pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Heels"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big black"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "White doll head"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "None"
+		},
+ 	]
+}

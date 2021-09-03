@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #4199",
+ 	"description": "HauntedVoodoo #4199",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmYiWjfcUvEkTFUfTY7xEk4s8WH2HierLb8PxwzLKQmmAi",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Sunrise"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Freckle"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Brown curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Dark sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Green belted pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Silver boots"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "White barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big black"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Pink doll head"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Red toad"
+		},
+ 	]
+}

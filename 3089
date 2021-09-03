@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #3090",
+ 	"description": "HauntedVoodoo #3090",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmVMbvftT1fpb5KfQUseX6ynegkCRncLjQmRHD4Y23kgAQ",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light blue gradiant"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Slicked back hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Dark voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Blue belted pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle brown shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red tribal tatoo"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Red snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Ruby"
+		},
+ 	]
+}

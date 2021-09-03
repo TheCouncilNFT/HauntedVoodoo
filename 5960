@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #5961",
+ 	"description": "HauntedVoodoo #5961",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmcoQTXtWNPAnGT1ozGDh7VbTmpZZbLRj7rGDW4Ywc8jnj",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Twilight"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Short dark curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Pink sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Brown large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Golden boots"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Book"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Cards"
+		},
+ 	]
+}

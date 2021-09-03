@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7370",
+ 	"description": "HauntedVoodoo #7370",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmPG4VoUQN1PP8j2zHb69jjj12uMPEtF4RYVN1HMZJWnDb",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Sunrise"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Neutral"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long dark hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Pink sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red tribal tatoo"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue old cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Straw puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Cards"
+		},
+ 	]
+}

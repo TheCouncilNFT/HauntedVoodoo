@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #6084",
+ 	"description": "HauntedVoodoo #6084",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmaeTHeDS7fmALxeTpRzjk94EqpU2GxDB7NGKqchGq7Auz",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light red"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Pink voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Black old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "White shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "White classy cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Red puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "None"
+		},
+ 	]
+}

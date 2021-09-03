@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #6330",
+ 	"description": "HauntedVoodoo #6330",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmNqhiLNgH6w8WSpabTVtyFqrGRvVAv4qzKkNg7UJh6qX6",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Purple"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Slicked back hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Orange sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Black leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Yellow vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Amethyst"
+		},
+ 	]
+}

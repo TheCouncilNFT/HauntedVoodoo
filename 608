@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #0609",
+ 	"description": "HauntedVoodoo #0609",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmd62ECUnMx9SuDm9cWYqnEb7JsJBLfvwJYhbVigyopMtk",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Orange"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long dark hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple top hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red belted pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Black shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue adventurer cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Purple aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "None"
+		},
+ 	]
+}

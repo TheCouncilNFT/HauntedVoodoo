@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #3239",
+ 	"description": "HauntedVoodoo #3239",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmf4N5cLQrEydCekD8SYdbTH25gDFSVrNMYY9Hm9f8ArxR",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light blue gradiant"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Full beard"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Dark curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Dark voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Black old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Torn shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Yellow vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Exhausted"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Red aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Pink doll head"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Lapis"
+		},
+ 	]
+}

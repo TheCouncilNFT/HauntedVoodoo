@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #4082",
+ 	"description": "HauntedVoodoo #4082",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmV4jzo99GYmf9YTsZTHwxKeomKjfazjuWDBtwYWAYnnaN",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Mustache"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long red hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Green top hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle blue shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue adventurer cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big black"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Blue aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Cards"
+		},
+ 	]
+}

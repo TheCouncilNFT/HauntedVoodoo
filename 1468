@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #1469",
+ 	"description": "HauntedVoodoo #1469",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmZfeayaGhQBWvQxi6Lz3pyfbsbB8BwpX3RZ66kq7PrZH2",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Pink voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Blue old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Brown shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red old cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Purple aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "None"
+		},
+ 	]
+}

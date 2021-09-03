@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7045",
+ 	"description": "HauntedVoodoo #7045",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmSDkoSfDZwaUjW243a73d6T4pKmRiW6LwHKAakvK2GwgH",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Haunted forest"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Scientist haircut"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Horned purple hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Black priest pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Heels"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Lapis"
+		},
+ 	]
+}

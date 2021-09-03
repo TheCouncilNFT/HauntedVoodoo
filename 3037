@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #3038",
+ 	"description": "HauntedVoodoo #3038",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmcYeq8Z2kvf222nogFRGnMxC5EVpA7PfBuLaJXgAtiLgP",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Twilight"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Half skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Pout"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Slicked back hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Brown large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Heels"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Purple old cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big black"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Lapis"
+		},
+ 	]
+}

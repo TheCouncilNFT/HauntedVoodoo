@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7494",
+ 	"description": "HauntedVoodoo #7494",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmQKKGYo3aKUT87ybqVnbXBfxnK4YyiDvFVjpP8masdUVV",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Pinwood green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Brown curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple voodoo cap"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Black combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Golden boots"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue old cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Lapis"
+		},
+ 	]
+}

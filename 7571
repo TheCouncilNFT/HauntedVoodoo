@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7572",
+ 	"description": "HauntedVoodoo #7572",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmbzMMN2sEH9upd578EcoMpyr5CQdmYsfNPP6FmX22WTRA",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long blond hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Dark eyed voodoo mask"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Brown leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "None"
+		},
+ 	]
+}

@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #0405",
+ 	"description": "HauntedVoodoo #0405",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmZLUvSZRLaY6kKcTF2NsMaf4uy8ZWfGHReueqxBmWqJku",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light red"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Mustache"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long red hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Pink voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "White shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "White doll head"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Dead toad"
+		},
+ 	]
+}

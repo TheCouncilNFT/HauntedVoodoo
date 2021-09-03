@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #1003",
+ 	"description": "HauntedVoodoo #1003",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmPtMhKKq67zSX2zZARqFHUMjGTUhzw82bQHRrPhQ7iCTc",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Dark"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Mustache"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long dark hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple top hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Brown large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle brown shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue tribal tatoo"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Green snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Lapis"
+		},
+ 	]
+}

@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #0599",
+ 	"description": "HauntedVoodoo #0599",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmfHVrES6m45upmTZBZG4nrudKe6LPcSbnSs1X66Z87FSJ",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light red"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Scientist haircut"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Dark sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Brown large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Red leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red tribal tatoo"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Straw doll"
+		},
+ 	]
+}

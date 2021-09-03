@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #0074",
+ 	"description": "HauntedVoodoo #0074",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmewfLps348Lh5i1vqHDtKUR6NdspJuPhyqMN49aJ2NngE",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Raining land"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Short green curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple top hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Black combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Silver boots"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big black"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Purple aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "White doll head"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Ruby"
+		},
+ 	]
+}

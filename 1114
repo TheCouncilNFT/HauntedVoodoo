@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #1115",
+ 	"description": "HauntedVoodoo #1115",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmUWtAa9gFjvBSY27fNbNae6w3g2F16Nw7nGTJf12d2ZdK",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Gradiant aqua"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Pout"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Short dark curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Brown old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle blue shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big black"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Green aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Straw doll"
+		},
+ 	]
+}

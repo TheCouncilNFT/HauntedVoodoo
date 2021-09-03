@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #6669",
+ 	"description": "HauntedVoodoo #6669",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmRiudoRVxSSeLv8NxroUsUskHZAwZXhHYPRY3z7ZoRnWE",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Shadow moon"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Half skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Pout"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long brown hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red tribal tatoo"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue old cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Red aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Dark dagger"
+		},
+ 	]
+}

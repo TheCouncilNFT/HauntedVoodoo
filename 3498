@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #3499",
+ 	"description": "HauntedVoodoo #3499",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmXGweysB5vAbag1jQHz9B4UueM2KCVPQMYPQwkzxA8a5o",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Purple"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Freckle"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Sewn"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Brown dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "White combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Golden boots"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Brown adventurer cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Big"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "White snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Dead toad"
+		},
+ 	]
+}

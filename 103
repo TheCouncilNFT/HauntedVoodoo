@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #0104",
+ 	"description": "HauntedVoodoo #0104",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmXrpR8yu3GcpP27Zyim57BNqwso5RMevE9x1tNAHSv1pt",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Pinwood green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Freckle"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Brown dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Blue top hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Purple large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "White leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Small rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "White snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Dead toad"
+		},
+ 	]
+}

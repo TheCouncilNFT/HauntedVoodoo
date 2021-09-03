@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7533",
+ 	"description": "HauntedVoodoo #7533",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmZmaTk9tkc1agsUD5r2zN4DuL4uq3e9GabfCWxRDSn3zA",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Raining land"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Brown curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Green top hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "White combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Black leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Exhausted"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Blue aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Red puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Green toad"
+		},
+ 	]
+}

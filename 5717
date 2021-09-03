@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #5718",
+ 	"description": "HauntedVoodoo #5718",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmbTyvhRXkYSgRSJ2XFcHiPFMAZSxZRwusNAfPALVpk8Js",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Shadow moon"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Indigenous"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long brown hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple voodoo hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "White combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Red leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Black vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Exhausted"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "White doll head"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Ruby"
+		},
+ 	]
+}

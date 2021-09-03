@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #2378",
+ 	"description": "HauntedVoodoo #2378",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmeUh4df8ezN1fcEC1y8tMLhaGiaqwHNJPMdrFQFqg8TUu",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Gradiant aqua"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Half skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "Shadow aura"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Blond dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Green top hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red old pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Golden boots"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Blue adventurer cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Green snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Straw doll"
+		},
+ 	]
+}

@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #6314",
+ 	"description": "HauntedVoodoo #6314",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmao4XqwVmkuQdBXi46VKAgyAJSux6tRZ9gqpq8ajGDdxP",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Dark"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Goatee"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Short dark curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Pink sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Brown large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle blue shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Purple adventurer cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Flat"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Purple aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Cards"
+		},
+ 	]
+}

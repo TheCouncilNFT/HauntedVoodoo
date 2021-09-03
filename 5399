@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #5400",
+ 	"description": "HauntedVoodoo #5400",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmeHS5nKZaXArZNPhvEQmzJXVaNWknbxQq5RshtWPSeE8s",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Orange"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Smile"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long brown hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Dark voodoo cap"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Blue combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Black shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big black"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Green snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Green toad"
+		},
+ 	]
+}

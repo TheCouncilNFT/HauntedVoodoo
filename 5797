@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #5798",
+ 	"description": "HauntedVoodoo #5798",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmbrv4M3dGtuP54kBNrSjsbf5zyjFKNmmtxWthfGFVB4GX",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light green"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Half skull"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long red hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Horned dark hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Blue large pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Silver boots"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Splitted cards"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Ruby"
+		},
+ 	]
+}

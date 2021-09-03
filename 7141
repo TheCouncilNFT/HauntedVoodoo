@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7142",
+ 	"description": "HauntedVoodoo #7142",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmcZjXNfue2THnP1ReFd6B8mtNgNQZ8BjqjXyAggkcuwR2",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Orange"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Semi-long dark hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Grey voodoo cap"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red combat pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Brown shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Green aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Red snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Cards"
+		},
+ 	]
+}

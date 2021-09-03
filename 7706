@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #7707",
+ 	"description": "HauntedVoodoo #7707",
+ 	"image": "https://gateway.pinata.cloud/ipfs/Qmd25yPPdiy4jmUR9yYBg6AhLzRrejn9dHENvryc96by9a",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Light red"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "Tanned"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Indigenous"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Blond dreadlocks"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Purple top hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red priest pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "Buckle brown shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Brown vest"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Rage"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "White snake"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "None"
+		},
+ 	]
+}

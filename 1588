@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #1589",
+ 	"description": "HauntedVoodoo #1589",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmVXAqrDFDbBV1ZucJVQEBFvBcogNwEB9BGWFu5YGzZvZK",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Twilight"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Freckle"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Surprised"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Pink curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Pink sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Red tribal tatoo"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "White barbarian cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Rounded"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Blue puppet"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Dead toad"
+		},
+ 	]
+}

@@ -1,0 +1,67 @@
+{
+	"name": "HauntedVoodoo #4311",
+ 	"description": "HauntedVoodoo #4311",
+ 	"image": "https://gateway.pinata.cloud/ipfs/QmQkTU6WimM8usjiY1hKTKTNd1oAux7NSvBKyaYyL3PMWG",
+ 	"attributes": [
+ 		{
+			"trait_type": "Background",
+			 "value": "Fiery steppes"
+		},
+ 		{
+			"trait_type": "Body",
+			 "value": "White"
+		},
+ 		{
+			"trait_type": "Face",
+			 "value": "Unshaven"
+		},
+ 		{
+			"trait_type": "Special aura",
+			 "value": "None"
+		},
+ 		{
+			"trait_type": "Mouth",
+			 "value": "Angry"
+		},
+ 		{
+			"trait_type": "Hair",
+			 "value": "Brown curly hair"
+		},
+ 		{
+			"trait_type": "Hat",
+			 "value": "Pink sorcerer hat"
+		},
+ 		{
+			"trait_type": "Pants",
+			 "value": "Green belted pants"
+		},
+ 		{
+			"trait_type": "Shoes",
+			 "value": "White leprechaun shoes"
+		},
+ 		{
+			"trait_type": "Cloth",
+			 "value": "Red old cloth"
+		},
+ 		{
+			"trait_type": "Nose",
+			 "value": "Normal"
+		},
+ 		{
+			"trait_type": "Eyes",
+			 "value": "Big white"
+		},
+ 		{
+			"trait_type": "Aura",
+			 "value": "Red aura"
+		},
+ 		{
+			"trait_type": "Right hand",
+			 "value": "Book"
+		},
+ 		{
+			"trait_type": "Left hand",
+			 "value": "Red toad"
+		},
+ 	]
+}
